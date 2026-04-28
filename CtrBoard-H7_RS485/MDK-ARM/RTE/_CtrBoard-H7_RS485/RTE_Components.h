@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'Bollard_control' 
- * Target:  'Bollard_control' 
+ * Project: 'CtrBoard-H7_RS485' 
+ * Target:  'CtrBoard-H7_RS485' 
  */
 
 #ifndef RTE_COMPONENTS_H
@@ -14,7 +14,7 @@
 /*
  * Define the Device Header File: 
  */
-#define CMSIS_device_header "stm32f4xx.h"
+#define CMSIS_device_header "stm32h7xx.h"
 
 
 
